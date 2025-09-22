@@ -14,4 +14,4 @@ Perfect for anyone learning SOC analysis or practicing offensive security in a s
 
 ## 🌟 About This Repo  
 This repo is part of my ongoing journey to build real-world cybersecurity skills and share knowledge with the community.  
-Follow me on [LinkedIn](www.linkedin.com/in/elijah-fleming-787562374) to see more labs, walkthroughs, and SOC analysis tips.  
+Follow me on [LinkedIn](www.linkedin.com) to see more labs, walkthroughs, and SOC analysis tips.  
